@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: "https://fonts.google.com/specimen/Outfit";
+    font-weight: 400 , 700;
+    text-align: center;
+}
+.container{
+    border-radius: 10px;
+    align-items: center;
+    width: 250px;
+    height: 450px;
+    margin: 100px auto;
+    padding: 10px;
+    background-color: hsl(0, 0%, 100%);
+}
+.qr{
+    width: 250px;
+    height: 250px;
+    margin: .25px .25px 30px .25px;
+    border-radius: 10px;
+}
+.heading{
+ font-size:20px ;
+ font-weight: bold ;
+}
+.paragraph{
+    font-size: 15px;
+    color: gray;
+}
